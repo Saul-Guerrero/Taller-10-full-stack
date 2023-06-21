@@ -8,6 +8,8 @@
     <title>taller 10</title>
     <link rel="stylesheet" href="./styles/menu-styles.css">
     <link rel="stylesheet" href="./styles/general-styles.css">
+    
+    
 </head>
 
 <body>

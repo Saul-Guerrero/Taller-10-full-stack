@@ -4,9 +4,13 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=, initial-scale=1.0">
+    <link rel="stylesheet" href="../styles/general-styles.css">
+    <link rel="stylesheet" href="./view/styles/table.css">
     <title>Puntos 5 - 6 - 7</title>
 </head>
 <body>
-    <?php include "./service/connection.php";?>
+    <h1>Proyecto Base de datos</h1>
+    <hr>
+    <?php include "./view/components/table.php" ?>
 </body>
 </html>
