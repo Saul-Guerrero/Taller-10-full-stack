@@ -8,7 +8,8 @@
 
 <h2>Punto 1: Calculadora operaciones basicas</h2>
 <img src="./public/images/punto-1.png" alt="Calculator">
-<h2>Punto 2:  </h2>
+<h2>Punto 2: Saber si eres mayor de edad</h2>
+<img src="./public/images/punto-2.png" alt="Age">
 <h2>Punto 3: </h2>
 <h2>Punto 4: </h2>
 <h2>Punto 5-6-7: </h2>
