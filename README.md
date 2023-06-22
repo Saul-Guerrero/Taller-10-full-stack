@@ -6,7 +6,8 @@
 <p>Profesor: Cristian Patiño</p>
 <p>Estudiante: Saúl Guerrero</p>
 
-<h2>Punto 1: </h2>
+<h2>Punto 1: Calculadora operaciones basicas</h2>
+<img src="./public/images/punto-1.png" alt="Calculator">
 <h2>Punto 2:  </h2>
 <h2>Punto 3: </h2>
 <h2>Punto 4: </h2>
